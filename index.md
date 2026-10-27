@@ -5,7 +5,7 @@ title: "Dostoyevskian Singularity"
 
 # Dostoyevskian Singularity
 
-*This essay explores how Fyodor Dostoyevsky’s concept of human volition applies to biological longevity and the expansion of consciousness. Tracing the path from existential philosophy to physical hardware constraints, it examines why merging the human brain with artificial intelligence ultimately demands local, non-von Neumann computing architectures.*
+*From 19th-century existentialism to non-von Neumann chip architectures: how Dostoyevsky’s philosophy of human volition shapes the quest to conquer aging, expand consciousness, and engineer the next generation of brain-computer interfaces.*
 
 ***
 
