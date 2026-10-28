@@ -55,4 +55,4 @@ In any case, I feel it is inevitable that humanity will merge with technology, a
 2. <span id="ref-2"></span>**Dostoyevsky, Fyodor.** *Notes from Underground and The Double* (orig. 1864 / 1846). Translated by Ronald Wilks, Penguin Classics, 2009.
 3. <span id="ref-3"></span>**Kurzweil, Ray.** *The Singularity Is Nearer: When We Merge with AI*. Penguin Books / Viking, 2024.
 4. <span id="ref-4"></span>**Rango, G. B.** "Inside Peter Thiel's Nashville Antichrist Lectures." *Pirate Wires*, October 25, 2026. [piratewires.com/p/inside-peter-thiels-nashville-antichrist](https://www.piratewires.com/p/inside-peter-thiels-nashville-antichrist)
-5. <span id="ref-5"></span**Bloomberg Television.** "Why Mistral Is Betting on a Different Kind of AI." Video interview with Arthur Mensch, October 25, 2026. [https://www.youtube.com/watch?v=XCBB4bRkyL4](https://www.youtube.com/watch?v=XCBB4bRkyL4)
+5. <span id="ref-5"></span>**Bloomberg Television.** "Why Mistral Is Betting on a Different Kind of AI." Video interview with Arthur Mensch, October 25, 2026. [https://www.youtube.com/watch?v=XCBB4bRkyL4](https://www.youtube.com/watch?v=XCBB4bRkyL4)
