@@ -41,6 +41,10 @@ Furthermore, the idea raises concerns regarding privacy and free will, because w
 
 Another option, one that would ensure privacy and security, would be to perform the computations inside the skull. However, this scenario would require a chip architecture that does not operate on the traditional von Neumann architecture, in which the processor and memory are separate, because this architecture generates far too much heat inside the skull, which inevitably leads to gliosis, which in layman's terms means brain scarring.
 
+This dilemma between computing power and privacy shares many characteristics with the ongoing debate over whether an open or closed model is best suited for enterprise use. Arthur Mensch, the CEO and co-founder of Mistral, which develops open models, has argued that businesses don’t want to share their trade secrets and data with entities outside the firm and thus prefer open models. [[5]](#ref-5)
+
+The main difference between open and closed models is whether the provider retains control over the model, and consequently whether computation requires routing data through the cloud, thereby pushing it outside the firm’s infrastructure. Open-weight (and open-source) models provide an option for local computation without the provider ever seeing the data [[5]](#ref-5). I think we will return to this debate in the future once BCI’s become more widespread.
+
 In any case, I feel it is inevitable that humanity will merge with technology, and this transition will require societal changes. I feel that the current way of thinking relies heavily on old, ingrained norms, and we should move beyond them through discussion. I feel that even though people may want to experience suffering and be pitied from time to time, they must also possess the willpower to do so, which is also an important part of Dostoyevsky's theory. Once humanity overcomes this challenge and directs its resources toward conquering aging and all diseases, the next step will be to consider how and to what extent we are prepared to continue living a conscious life.
 
 ***
@@ -51,3 +55,4 @@ In any case, I feel it is inevitable that humanity will merge with technology, a
 2. <span id="ref-2"></span>**Dostoyevsky, Fyodor.** *Notes from Underground and The Double* (orig. 1864 / 1846). Translated by Ronald Wilks, Penguin Classics, 2009.
 3. <span id="ref-3"></span>**Kurzweil, Ray.** *The Singularity Is Nearer: When We Merge with AI*. Penguin Books / Viking, 2024.
 4. <span id="ref-4"></span>**Rango, G. B.** "Inside Peter Thiel's Nashville Antichrist Lectures." *Pirate Wires*, October 25, 2026. [piratewires.com/p/inside-peter-thiels-nashville-antichrist](https://www.piratewires.com/p/inside-peter-thiels-nashville-antichrist)
+5. <span id="ref-5"></span**Bloomberg Television.** "Why Mistral Is Betting on a Different Kind of AI." Video interview with Arthur Mensch, October 25, 2026. [https://www.youtube.com/watch?v=XCBB4bRkyL4](https://www.youtube.com/watch?v=XCBB4bRkyL4)
