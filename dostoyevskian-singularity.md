@@ -31,7 +31,11 @@ The panpsychistic view of consciousness is that consciousness is a fundamental f
 
 In other words, a rock cannot be conscious because its information-processing capacity is too low, but a mouse, a whale, a hawk, and a human are all conscious beings due to their complex brain structures. In this case, we can therefore assume that when a being appears to be conscious from the outside, it most likely possesses subjective experience in the form we recognize it [[3]](#ref-3).
 
-This vast state of consciousness is precisely what makes us human and gives life its value. If no one were conscious, it would make no difference whether the world existed at all. Therefore, to add value to life by understanding ourselves better and experiencing life more deeply, it is essential that humans transcend their biological limitations.
+An extension to the panpsychistic view of consciousness, which would also support the existence of the soul, could be, for example, such that when a human dies, their consciousness deactivates within the field of consciousness and the soul wanders to a new entity, such as a newborn calf. Since the new entity carrying the soul is not made of the same matter as the former, and its information-processing network is wired differently, it cannot activate the memories of the former entity and therefore does not recognize its predecessor, thus severing the subjective memory experience between the two different carriers of one conscious soul.
+
+This would, however, imply that the number of conscious souls is finite, and in fact, some precise integer, and that this number is unchangeable. Consequently, another person, or perhaps an animal, may have been a loved one in a previous life. It also implies that we actually do live forever, and there is an infinite amount of afterlife for the believers.
+
+This vast state of consciousness is precisely what gives life its value. If no one were conscious, it would make no difference whether the world existed at all. Therefore, to add value to life by understanding ourselves better and experiencing life more deeply, it is essential, I think, that humans transcend their biological limitations.
 
 One scenario for solving this problem could be to connect a person to the cloud via a brain implant, where artificial intelligence would handle the processing of complex data [[3]](#ref-3). The information would be fed back to the brain, where the chip would either project it as sensory data, such as into the field of vision, or directly into the brain, manifesting as a sort of sixth sense.
 
