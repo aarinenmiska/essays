@@ -9,7 +9,7 @@ title: "Dostoyevskian Singularity"
 
 ***
 
-### Part I: Introduction
+## Part I: Introduction
 
 The 19th-century Russian writer Fyodor Dostoyevski has had a significant influence on the world, especially on Russian social culture. His works often revolve around suffering and the inner struggles of his characters. In works such as _Crime and Punishment_ [[1]](#ref-1) or _Notes from Underground_ [[2]](#ref-2), the protagonist willingly exposes himself to suffering: Raskolnikov by committing "morally rightful" murder, and the Underground Man by continuing to do irrational things he knows he will regret later.
 
@@ -19,7 +19,7 @@ Although curing aging and optimizing the world for a technological singularity a
 
 My thesis is that for humanity to keep the freedom to choose our own struggles, humanity must break out of two deterministic battlefronts: biological determinism and technological determinism.
 
-### Part II: Breaking Biological Determinism
+## Part II: Breaking Biological Determinism
 
 I agree with Dostoyevski that it is part of human nature to want some friction in life and suffer because of it. It is also part of human nature to feel a momentary sense of self-pity for one's own suffering, be it imagined or real, and maybe even receive some pity from others. However, it’s one thing to experience uncontrollable suffering, and quite another to experience the kind of suffering caused, for example, by listening to emotionally charged music of one’s own choosing, such as _On the Nature of Daylight_.
 
@@ -29,7 +29,7 @@ Death is also argued to give meaning to life, because it creates a sense of urge
 
 So in my view, the problem is that people value the freedom to choose, but the freedom to choose one’s own suffering is limited by accepting age-related suffering and death as it is and as **one’s own opinion**, without giving the matter any deeper thought. In fact, most people would choose death after having lived long enough, say 80 years, but wouldn’t choose to die tomorrow. In my opinion, these are two sides of the same coin, just on different scales. How can one know at this stage whether they want to die tomorrow, when they’re just one day shy of turning 80? If one could set the exact age at which they’d die, what would their 80-year-old self say to the younger version of them who decided on their behalf that they’d die tomorrow? Realistically, would anyone even be able to make this decision when they’re young and would they only then stop to think about it more deeply?
 
-### Part III: Consciousness
+## Part III: Consciousness
 
 I’ve also wondered where the line would be drawn once we’ve conquered aging. If it’s possible to live as long as one chooses, should a person then also have the power to decide how to live? The question sounds trivial at first, but if we factor in the expansion of consciousness, cognition, the senses, or the capacity for empathy, the question becomes more complex.
 
@@ -41,7 +41,7 @@ If no one were conscious, it would make no difference whether the world existed 
 
 Such a silent universe with no afterlife is the exact premise behind nihilism described by Dostoyevski: if there is no afterlife and the universe is indifferent to our actions, everything is permitted [[5]](#ref-5). In *Notes from Underground*, Dostoyevski argues that humans want to stick out their tongues at the Crystal Palace to prove their freedom against an optimized and deterministic order [[2]](#ref-2). In the context of mortality, treating death as an act of defiance or spite, as if you are rattling some cosmic authority or god, fails on its own terms. Rebellion requires an authority to defy, and a conscious rebel left standing to defy it. In a silent, godless universe, there is no god to rattle, and deactivation erases the rebel too. To borrow Raskolnikov's accusation from *Crime and Punishment*: "you have mortified and betrayed yourself for nothing." [[1]](#ref-1) The only way to rebel against such an indifferent universe is to stay conscious, expand one's mind, and find meaning where the universe offers none.
 
-### Part IV: Breaking Technological Determinism
+## Part IV: Breaking Technological Determinism
 
 Expanding consciousness could start as a philosophical rebellion against a silent universe but it quickly becomes a practical requirement for survival once AI enters the picture. Human brains can process vast amounts of information, but their output, such as speech production and writing, is slow. If artificial intelligence advances at an exponential rate, as Ray Kurzweil argues in _The Singularity Is Near_ [[6]](#ref-6), human communication with AI will eventually become too slow, inevitably leaving us out of the decision-making loop. Just as chimpanzees can communicate effectively among themselves from their own perspective, communication between humans and chimpanzees feels profoundly inefficient to us when compared to communicating with another human. And as Elon Musk argued in an interview with _The Economist_, we would not want chimpanzees to lead us either [[7]](#ref-7).
 
@@ -51,7 +51,7 @@ Therefore, in order to remain in the decision-making loop, it is crucial that hu
 
 Bostrom's orthogonality thesis also hints that high intelligence does not automatically require independent agency or self-directed goals [[8]](#ref-8). Although agentic AI integrated into human cognition could hold an independent utility function and therefore pose a risk for humanity to lose control, a non-agentic inferential AI could do something different. By expanding human bandwidth and adding AI as a sort of "sixth sense" without importing an independent agent's goals, the integration with AI would be much more like adding a new sensory cortex. I mean, imagine how many unconscious computations happen every millisecond because of the sensory data one's retina, visual cortex and the cerebellum handle. Yet nobody argues that having eyes violates their free will. Vision only expands one's option pool, leaving the final decision to the human. In the context of brain-computer interfaces, adding an AI sixth sense would be equivalent to scaling up the sensory and computational substrate that human volition operates on.
 
-### Part V: The BCI Trilemma
+## Part V: The BCI Trilemma
 
 One proposed solution to expanding consciousness is to connect a person to the cloud via brain implant, and artificial intelligence would handle the processing of complex data inside a data center. The information would be fed back to the brain, where the chip would either project it as sensory data, such as into the field of vision, or directly into the brain, manifesting as a sixth sense. In this scenario, the computing power would be enormous, and human consciousness could be scaled to its absolute limit. Furthermore, the 1-degree Celsius thermal limit for intracranial computing would remain under control, since most of the computing would take place via a cloud service, not within the implant itself. However, cloud services come with their own data transmission delay, or latency, which would make the experience of the sixth sense rather clunky.
 
@@ -63,7 +63,7 @@ A third option would be to perform the computations inside the skull. However, i
 
 Closing the gap between efficient local hardware and centralized cloud compute is the exact engineering bottleneck ahead, just like in enterprise AI today. In fact, this trilemma shares many characteristics with the ongoing debate over whether an open or closed model is best suited for enterprise use. Arthur Mensch, the CEO and co-founder of Mistral, which develops open models, has argued that businesses don’t want to share their trade secrets and data with entities outside the firm and thus prefer open models [[11]](#ref-11). The main difference between open and closed models is whether the provider retains control over the model, and consequently whether computation requires routing data through the cloud, thereby pushing it outside the firm’s infrastructure. Open-weight (and open-source) models provide an option for local computation without the provider ever seeing the data [[11]](#ref-11). I think we will return to a similar debate in the future once BCIs become more widespread.
 
-### Part VI: Volition Beyond Biology
+## Part VI: Volition Beyond Biology
 
 Clinging to old, ingrained norms while waiting for the future to unfold is already a choice. Accepting aging as an untouchable fact of nature surrenders our volition to biological determinism, while ignoring how artificial intelligence and brain-computer interfaces are built surrenders it to external algorithms or centralized cloud providers. Both paths lead straight to the deterministic predictability that Dostoyevski rebelled against. Given current momentum, these technologies are likely coming, but the form they take is still up to us.
 
@@ -75,7 +75,7 @@ Once humanity stops treating biological death as mandatory and secures the sover
 
 ***
 
-### References
+## References
 
 1. <span id="ref-1"></span>**Dostoyevsky, Fyodor.** *Crime and Punishment* (orig. 1866). Translated by Oliver Ready, Penguin Classics, 2014.
 2. <span id="ref-2"></span>**Dostoyevsky, Fyodor.** *Notes from Underground and The Double* (orig. 1864 / 1846). Translated by Ronald Wilks, Penguin Classics, 2009.
